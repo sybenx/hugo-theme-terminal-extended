@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other Works on Terminal</title>
+    <link>https://www.luisrodriguesalves.dev/hugo-theme-terminal-extended/portfolio/earrings/</link>
+    <description>Recent content in Other Works on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.luisrodriguesalves.dev/hugo-theme-terminal-extended/portfolio/earrings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy Earring</title>
+      <link>https://www.luisrodriguesalves.dev/hugo-theme-terminal-extended/portfolio/earrings/earring2/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.luisrodriguesalves.dev/hugo-theme-terminal-extended/portfolio/earrings/earring2/</guid>
+      <description>Beautiful isn&amp;rsquo;t it?</description>
+      <content>&lt;p&gt;Beautiful isn&amp;rsquo;t it?&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Flashy Earring</title>
+      <link>https://www.luisrodriguesalves.dev/hugo-theme-terminal-extended/portfolio/earrings/earring1/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.luisrodriguesalves.dev/hugo-theme-terminal-extended/portfolio/earrings/earring1/</guid>
+      <description>Beautiful isn&amp;rsquo;t it?</description>
+      <content>&lt;p&gt;Beautiful isn&amp;rsquo;t it?&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Can&#39;t see earring</title>
+      <link>https://www.luisrodriguesalves.dev/hugo-theme-terminal-extended/portfolio/earrings/earring3/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.luisrodriguesalves.dev/hugo-theme-terminal-extended/portfolio/earrings/earring3/</guid>
+      <description>Beautiful isn&amp;rsquo;t it?</description>
+      <content>&lt;p&gt;Beautiful isn&amp;rsquo;t it?&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
