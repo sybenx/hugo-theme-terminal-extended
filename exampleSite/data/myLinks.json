@@ -1,16 +1,16 @@
 {
     "Name": "My Links",
     "Description": "Mysterious but clickable",
-    "Image": "/img/brinco1.png",
+    "Image": "img/brinco1.png",
     "Socials": [
         {
             "Link": "https://instagram.com/Louisload",
-            "Icon": "/icon/instagram.svg",
+            "Icon": "icon/instagram.svg",
             "AltText": "Instagram"
         },
         {
             "Link": "https://www.twitter.com/Louisload",
-            "Icon": "/icon/twitter.svg",
+            "Icon": "icon/twitter.svg",
             "AltText": "Twitter"
         }
     ],
@@ -22,22 +22,22 @@
         },
         {
             "Type": "link",
-            "Link": "/showcase/",
-            "Icon": "/img/monalisa3.png",
+            "Link": "showcase/",
+            "Icon": "img/monalisa3.png",
             "Content": "My highlighted post",
             "OpenNewTab": false
         },
         {
             "Type": "link",
             "Link": "https://luis.zip",
-            "Icon": "/icon/windows95.svg",
+            "Icon": "icon/windows95.svg",
             "Content": "funny_file.zip",
             "OpenNewTab": true
         },
         {
             "Type": "link",
             "Link": "https://en.wikipedia.org/wiki/Ubuntu",
-            "Icon": "/icon/linux.svg",
+            "Icon": "icon/linux.svg",
             "Content": "My Favorite Distro",
             "OpenNewTab": true
         }
