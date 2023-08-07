@@ -68,7 +68,9 @@
   {{ end }}
   <meta property="og:image" content="{{ $pageCover | absURL }}">
 {{ else }}
-  {{ if isset $.Site.Params "favicon" }}
+  {{ if isset $.Site.Params "card" }} 
+  <meta property="og:image" content="{{ $.Site.Params.card | absURL }}">
+  {{ else if isset $.Site.Params "favicon" }}
     <meta property="og:image" content="{{ $.Site.Params.favicon | absURL }}">
   {{ else }}
     <meta property="og:image" content="{{ printf "img/favicon/%s.png" $.Site.Params.ThemeColor | absURL }}">
