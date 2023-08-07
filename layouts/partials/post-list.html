@@ -1,3 +1,4 @@
+{{ if gt .Paginator.TotalPages 0 }}
 <div class="posts">
     <ul>
      {{ range .Paginator.Pages }}
@@ -10,3 +11,4 @@
     </ul>
     {{ partial "pagination.html" . }}
 </div>
+{{ end }}
