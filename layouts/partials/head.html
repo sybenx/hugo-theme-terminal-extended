@@ -45,6 +45,19 @@
   <link rel="apple-touch-icon" href="{{ printf "img/theme-colors/%s.png" (or .Params.color $.Site.Params.ThemeColor | default "orange") | absURL }}">
 {{ end }}
 
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="content/favicon/apple-touch-icon.png?v=1.1">
+<link rel="icon" type="image/png" sizes="32x32" href="content/favicon/favicon-32x32.png?v=1.1">
+<link rel="icon" type="image/png" sizes="16x16" href="content/favicon/favicon-16x16.png?v=1.1">
+<link rel="manifest" href="content/favicon/site.webmanifest?v=1.1">
+<link rel="mask-icon" href="content/favicon/safari-pinned-tab.svg?v=1.1" color="#5bbad5">
+<link rel="shortcut icon" href="content/favicon/favicon.ico?v=1.1">
+<meta name="apple-mobile-web-app-title" content="aaro.cc">
+<meta name="application-name" content="aaro.cc">
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="msapplication-config" content="content/favicon/browserconfig.xml?v=1.1">
+<meta name="theme-color" content="#ffffff">
+
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary" />
 {{ if (isset $.Site.Params "twitter") }}
