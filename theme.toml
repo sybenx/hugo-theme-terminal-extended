@@ -1,13 +1,13 @@
-name = "terminal"
+name = "terminalng"
 license = "MIT"
-licenselink = "https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md"
+licenselink = "https://github.com/sybenx/hugo-theme-terminal-extended-ng/master/LICENSE.md"
 description = "A simple, retro theme for Hugo."
-homepage = "https://github.com/panr/hugo-theme-terminal/"
+homepage = "https://github.com/sybenx/hugo-theme-terminal-extended-ng/"
 tags = ["blog", "clean", "customizable", "dark", "highlighting", "minimal", "monotone", "multilingual", "personal", "responsive", "simple", "technical", "retro"]
 features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.90
 
 [author]
-  name = "panr"
-  homepage = "https://radoslawkoziel.pl"
-  twitter = "https://twitter.com/panr"
+  name = "sybenx"
+  homepage = "https://aaro.cc"
+  twitter = "https://x.com/syben_"
