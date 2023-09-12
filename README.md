@@ -1,6 +1,6 @@
 # Terminal E NG
 
-This is a fork of the [Terminal-extended theme](https://github.com/Louisload/hugo-theme-terminal-extended) for [Hugo](https://gohugo.io/), adding more features and some differences as needed.
+This is a fork of the [Terminal-extended theme](https://github.com/Louisload/hugo-theme-terminal-extended) for [Hugo](https://gohugo.io/), adding more features and some differences as needed. 
 
 some differences:
 * lime color theme
@@ -9,3 +9,7 @@ some differences:
 ---
 
 ![Terminal-e-ng](https://i.vgy.me/0Ibhrp.jpg)
+
+---
+
+Used on [aaro.cc](https://aaro.cc)
